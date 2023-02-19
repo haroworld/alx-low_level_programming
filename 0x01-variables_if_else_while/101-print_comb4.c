@@ -23,8 +23,8 @@ int main(void)
 					if (a + b + c < 24)
 					{
 						putchar(',');
-						putchar(' ');
 					}
+					putchar(' ');
 				}
 			}
 		}
