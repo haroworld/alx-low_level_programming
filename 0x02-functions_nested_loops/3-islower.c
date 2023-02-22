@@ -3,9 +3,7 @@
 
 /**
  * _islower - program to check alphabet if its lower
- *
- * c - is the file to be checked
- *
+ * @c: is the file to be checked
  * Return: 1 if char is lower case otherwose 0
  */
 
